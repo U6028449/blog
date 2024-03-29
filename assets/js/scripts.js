@@ -21,7 +21,7 @@ themeSwitcher.addEventListener('click', function () {
 const backButton = document.querySelector('#back-button');
 if (backButton) {
 backButton.addEventListener('click', function() {
-    window.location.href = 'landing-page.html';
+    window.location.href = 'index.html';
 });
 }
 
